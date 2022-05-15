@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ironbuilder
-- 👀 I’m interested in adroid dev
+- 👀 I’m interested in android and os dev
 - 🌱 I’m currently learning java and assembly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityagiri943@gmail.com
